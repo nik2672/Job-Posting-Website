@@ -1,0 +1,68 @@
+/* Styles  */
+body { /* styles for body */
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4; /* Light background color */
+}
+
+.container { /* styles for container class used for all pages */
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+header { 
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a { /* styles for buttons on index page */
+    text-decoration: none;
+    color: #007BFF; /* Blue colour */
+    padding: 5px;
+    border: 1px solid #007BFF;
+    border-radius: 3px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+a:hover { 
+    background-color: #007BFF;
+    color: white;
+}
+
+.link-container { /*more styles for contian encapsulating buttons such that they are centered and stacked */
+    display: flex;
+    flex-direction: column; /*  links stacked vertically */
+    gap: 10px; /*  space between links */
+}
+
+.link-container a {
+    padding: 10px;
+    text-align: center;
+    background-color: #e7f1ff; /*  background for links */
+    border-radius: 5px;
+    margin-bottom: 10px; /*  space between buttons */
+}
+
+.link-container a:hover {
+    background-color: #007BFF; /*  background on hover transitions */
+}
+
+
+
+/* Responsive Design */
+@media (max-width: 600px) { /* styels applied if screen size is less that 600 pixes */
+    .container {
+        padding: 10px;
+    }
+}
+
