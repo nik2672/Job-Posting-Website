@@ -13,8 +13,8 @@
         <h1>Job Vacancy Posting System</h1>
     </header>
     <div class="container">
-        <p>Name: Nikhil Mohite</p>
-        <p>Student ID: 104549772</p>
+        <p>Name</p>
+        <p>Student ID:</p>
         <a href="mailto:104549772@student.swin.edu.com">104549772@student.swin.edu.au</a>
         <p>I declare that this assignment is my individual work. I have not worked collaboratively, nor have I 
         copied from any other student's work or from any other source</p>
