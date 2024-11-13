@@ -4,4 +4,5 @@ Job Posting Website using PHP. Project was aimed to focus entirely on PHP creati
 Link To Website: 
 http://job-posting-website.42web.io/
 
-MOVE to DIGITAL OCEAN 
+Moving hosting to DIGITAL OCEAN
+- creating demo video 
