@@ -6,4 +6,3 @@ http://job-posting-website.42web.io/
 
 Moving hosting to DIGITAL OCEAN
 - creating demo video 
--
